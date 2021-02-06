@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Paulao17/paste-to-pc/issues"
   },
-  "homepage": "https://github.com/Paulao17/paste-to-pc#readme"
+  "homepage": "https://github.com/Paulao17/paste-to-pc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ioredis": "^4.22.0",
+    "pug": "^3.0.0",
+    "socket.io": "^3.1.1",
+    "uuid": "^8.3.2"
+  }
 }
